@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Martin Gachu, an android engineer based in Nairobi.
 <!--
 **samkergachu/samkergachu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
