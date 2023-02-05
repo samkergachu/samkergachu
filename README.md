@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Martin Gachu, an android engineer based in Nairobi.
+I'm Martin, a software engineer based in Nairobi. Currently I am working on hacking the Linux Kernel. Also, don't be scared if you see some web dev stuff. I'm doing that too :-D 
 <!--
 **samkergachu/samkergachu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
